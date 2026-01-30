@@ -19,7 +19,7 @@
          style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
     <p style="margin-top:10px;">
       <strong>Dr. Eman Hammad (General Chair)</strong><br>
-      Engineering Technology & Industrial Distribution, Texas A&amp;M University<br>
+      Texas A&amp;M University<br>
       eman.hammad@tamu.edu
     </p>
   </div>
