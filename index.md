@@ -1,7 +1,3 @@
----
-title: ""
-layout: default
----
 
 # CRAI 2026: The 1st International Workshop on Composable Resilience for Agentic AI
 
