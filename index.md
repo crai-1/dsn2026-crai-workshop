@@ -18,7 +18,7 @@ layout: default
 
   <!-- Eman -->
   <div style="text-align: center;">
-    <img src="assets/images/eman-hammad.jpg"
+    <img src="images/eman-hammad.jpg"
          alt="Dr. Eman Hammad"
          style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
     <p style="margin-top:10px;">
@@ -29,7 +29,7 @@ layout: default
 
   <!-- Jaewon -->
   <div style="text-align: center;">
-    <img src="assets/images/jaewon-kim.jpg"
+    <img src="images/jaewon-kim.jpg"
          alt="Dr. Jaewon Kim"
          style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
     <p style="margin-top:10px;">
