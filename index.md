@@ -21,7 +21,7 @@
   <div style="text-align: center; width: 220px;">
     <img src="images/eman-hammad.jpg"
          alt="Dr. Eman Hammad"
-         style="width:180px; height:270px; border-radius:10%; object-fit:cover;">
+         style="width:180px; height:250px; border-radius:10%; object-fit:cover;">
     <p style="margin-top:10px; line-height:1.4;">
       <strong>Dr. Eman Hammad</strong><br>
       <em>General Chair</em><br>
@@ -34,7 +34,7 @@
   <div style="text-align: center; width: 220px;">
     <img src="images/jaewon-kim2.jpg"
          alt="Dr. Jaewon Kim"
-         style="width:180px; height:270px; border-radius:10%; object-fit:cover;">
+         style="width:180px; height:250px; border-radius:10%; object-fit:cover;">
     <p style="margin-top:10px; line-height:1.4;">
       <strong>Dr. Jaewon Kim</strong><br>
       <em>Co-Chair</em><br>
