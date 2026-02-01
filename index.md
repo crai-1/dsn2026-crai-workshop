@@ -73,7 +73,7 @@ decomposing agentic workflows into analyzable modules with explicit interfaces, 
 
 ## Format
 - Keynote (45 min)
-- 2–3 paper sessions (regular + short)
+- 3 paper sessions (regular + short)
 - Panel (60 min)
 - Open discussion
 
@@ -84,13 +84,13 @@ We invite submissions on composable resilience for agentic AI, bridging AI depen
 
 ### Submission Types
 - Regular Research Papers (8 pages)
-- Short/Position Papers (4 pages)
-- Experience Reports
+- Short Papers / Position Papers (4 pages)
+- Vision / Extended Papers (up to 15 pages)
 
 ### Submission Guidelines
-PDF, IEEE Computer Society 8.5x11 two-column format; double-blind review for regular papers.
+PDF, IEEE Computer Society 8.5x11 two-column format; double-blind review for regular research papers.
 
-### Important Dates (AoE)
+### Important Dates (Anywhere on Earth, AoE)
 - Submission: **March 31, 2026**
 - Notification: **April 30, 2026**
 - Camera-ready: **May 10, 2026**
