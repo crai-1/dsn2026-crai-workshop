@@ -99,7 +99,7 @@ PDF, IEEE Computer Society 8.5x11 two-column format; double-blind review for reg
 
 <div style="margin-top: 30px; text-align: center;">
   <a href="files/CRAI2026_flyer.pdf" target="_blank">
-    <img src="images/crai2026_flyer.png"
+    <img src="images/CRAI2026_flyer.png"
          alt="CRAI 2026 Flyer (PDF)"
          style="
            max-width: 800px;
