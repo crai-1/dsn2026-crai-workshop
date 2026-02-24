@@ -97,6 +97,24 @@ PDF, IEEE Computer Society 8.5x11 two-column format; double-blind review for reg
 
 ---
 
+<h3 style="color: red;">Submission Site</h3>
+
+<p style="text-align: center; margin-top: 10px;">
+  <a href="https://easychair.org/conferences/submission_new?a=36191004"
+     target="_blank"
+     style="
+       display: inline-block;
+       padding: 12px 24px;
+       background-color: #2c5aa0;
+       color: white;
+       text-decoration: none;
+       border-radius: 6px;
+       font-weight: 600;
+     ">
+     Submit your paper via EasyChair
+  </a>
+</p>
+
 <div style="margin-top: 30px; text-align: center;">
   <a href="files/CRAI2026_flyer.pdf" target="_blank">
     <img src="images/CRAI2026_flyer.png"
